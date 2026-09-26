@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "topic": "Concepto de hiperglucemia",
+    "question": "¿Qué describe mejor la hiperglucemia?",
+    "options": {
+      "A": "Disminución de la glucosa en sangre.",
+      "B": "Aumento de la glucosa en sangre.",
+      "C": "Ausencia de insulina en todos los casos.",
+      "D": "Aumento de glucosa solo dentro de las células."
+    },
+    "correct": "B",
+    "feedback": {
+      "A": "La disminución de glucosa en sangre corresponde a hipoglucemia.",
+      "B": "Correcto. La hiperglucemia es una elevación de la concentración de glucosa sanguínea.",
+      "C": "La hiperglucemia puede presentarse con insulina baja, normal o incluso elevada, según la causa.",
+      "D": "La definición se refiere a glucosa elevada en la sangre, no exclusivamente dentro de las células."
+    },
+    "remediation": "La hiperglucemia significa que la concentración de glucosa en la sangre está por encima del rango esperado. No indica por sí sola cuál es la causa.",
+    "verification": {
+      "question": "Si una persona tiene más glucosa de la esperada circulando en su sangre, ¿qué término corresponde?",
+      "options": {
+        "A": "Hipoglucemia",
+        "B": "Hiperglucemia",
+        "C": "Normoglucemia",
+        "D": "Hipocalcemia"
+      },
+      "correct": "B",
+      "feedback": "Hiperglucemia significa glucosa sanguínea elevada."
+    }
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "topic": "Insulina",
+    "question": "Después de una comida rica en carbohidratos, ¿qué hormona aumenta principalmente para ayudar a reducir la glucemia?",
+    "options": {
+      "A": "Glucagón",
+      "B": "Insulina",
+      "C": "Melatonina",
+      "D": "Calcitonina"
+    },
+    "correct": "B",
+    "feedback": {
+      "A": "El glucagón favorece el aumento de la disponibilidad de glucosa, especialmente durante el ayuno.",
+      "B": "Correcto. El aumento de glucosa estimula la secreción de insulina.",
+      "C": "La melatonina regula principalmente ritmos circadianos.",
+      "D": "La calcitonina participa en la regulación del calcio."
+    },
+    "remediation": "Cuando la glucosa aumenta después de comer, las células beta pancreáticas liberan insulina. Esta hormona favorece la utilización y almacenamiento de glucosa.",
+    "verification": {
+      "question": "Tras una comida, ¿qué hormona ayuda principalmente a que la glucosa sanguínea vuelva hacia su rango habitual?",
+      "options": {
+        "A": "Insulina",
+        "B": "Glucagón",
+        "C": "Cortisol",
+        "D": "Adrenalina"
+      },
+      "correct": "A",
+      "feedback": "La insulina es la principal hormona que favorece la disminución de la glucemia posprandial."
+    }
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "topic": "Páncreas",
+    "question": "¿Qué órgano produce la insulina?",
+    "options": {
+      "A": "Hígado",
+      "B": "Páncreas",
+      "C": "Riñón",
+      "D": "Bazo"
+    },
+    "correct": "B",
+    "feedback": {
+      "A": "El hígado regula y almacena glucosa, pero no es la fuente principal de insulina.",
+      "B": "Correcto. La insulina es producida por células beta del páncreas.",
+      "C": "El riñón participa en el metabolismo y excreción, pero no produce la insulina reguladora.",
+      "D": "El bazo no produce insulina."
+    },
+    "remediation": "El páncreas tiene una función endocrina. Dentro de los islotes pancreáticos, las células beta producen insulina.",
+    "verification": {
+      "question": "¿En qué órgano se encuentran las células beta productoras de insulina?",
+      "options": {
+        "A": "Páncreas",
+        "B": "Hígado",
+        "C": "Estómago",
+        "D": "Tiroides"
+      },
+      "correct": "A",
+      "feedback": "Las células beta están en los islotes pancreáticos."
+    }
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "topic": "Células beta",
+    "question": "¿Qué células pancreáticas producen principalmente insulina?",
+    "options": {
+      "A": "Alfa",
+      "B": "Beta",
+      "C": "Delta",
+      "D": "Hepatocitos"
+    },
+    "correct": "B",
+    "feedback": {
+      "A": "Las células alfa producen principalmente glucagón.",
+      "B": "Correcto. Las células beta producen insulina.",
+      "C": "Las células delta producen principalmente somatostatina.",
+      "D": "Los hepatocitos son células del hígado, no del páncreas endocrino."
+    },
+    "remediation": "En los islotes pancreáticos, las células beta producen insulina y las células alfa producen glucagón. Diferenciar ambas es fundamental para comprender la regulación de la glucemia.",
+    "verification": {
+      "question": "Si aumenta la glucosa y deben liberarse más moléculas de insulina, ¿qué células responden principalmente?",
+      "options": {
+        "A": "Células beta",
+        "B": "Células alfa",
+        "C": "Eritrocitos",
+        "D": "Hepatocitos"
+      },
+      "correct": "A",
+      "feedback": "Las células beta pancreáticas secretan insulina."
+    }
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "topic": "Glucagón",
+    "question": "¿Cuál es la función principal del glucagón sobre la glucemia?",
+    "options": {
+      "A": "Favorecer su aumento cuando está baja",
+      "B": "Eliminar glucosa por la orina",
+      "C": "Disminuir siempre la glucemia",
+      "D": "Transformarse en insulina"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. El glucagón favorece mecanismos que aumentan la disponibilidad de glucosa.",
+      "B": "El glucagón no actúa eliminando glucosa por la orina.",
+      "C": "Su efecto general es opuesto al de la insulina en la regulación de glucosa.",
+      "D": "Glucagón e insulina son hormonas distintas."
+    },
+    "remediation": "El glucagón se libera principalmente cuando la glucemia disminuye. Favorece procesos hepáticos que aumentan la glucosa disponible en sangre.",
+    "verification": {
+      "question": "Durante un periodo de ayuno, ¿qué hormona ayuda a evitar que la glucosa sanguínea disminuya demasiado?",
+      "options": {
+        "A": "Glucagón",
+        "B": "Insulina",
+        "C": "Calcitonina",
+        "D": "Melatonina"
+      },
+      "correct": "A",
+      "feedback": "El glucagón ayuda a mantener la glucosa durante el ayuno."
+    }
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "topic": "Homeostasis",
+    "question": "¿Qué significa mantener la homeostasis de la glucosa?",
+    "options": {
+      "A": "Mantenerla exactamente igual todo el día",
+      "B": "Mantenerla dentro de un rango fisiológicamente regulado",
+      "C": "Eliminar toda la glucosa de la sangre",
+      "D": "Mantener la insulina siempre elevada"
+    },
+    "correct": "B",
+    "feedback": {
+      "A": "La glucosa varía durante el día; la homeostasis no significa valor idéntico constante.",
+      "B": "Correcto. Homeostasis implica regulación dentro de un rango funcional.",
+      "C": "La glucosa es necesaria como fuente energética.",
+      "D": "La insulina también varía según las necesidades metabólicas."
+    },
+    "remediation": "La homeostasis no mantiene una variable completamente inmóvil. La mantiene dentro de límites funcionales mediante mecanismos de regulación.",
+    "verification": {
+      "question": "Si la glucosa sube después de comer y luego vuelve hacia su rango habitual, ¿qué proceso representa mejor?",
+      "options": {
+        "A": "Homeostasis",
+        "B": "Ausencia de regulación",
+        "C": "Daño celular inevitable",
+        "D": "Retroalimentación positiva ilimitada"
+      },
+      "correct": "A",
+      "feedback": "El retorno hacia un rango regulado es un ejemplo de homeostasis."
+    }
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "topic": "Glucosa como energía",
+    "question": "¿Por qué la glucosa es importante para el organismo?",
+    "options": {
+      "A": "Porque puede utilizarse como fuente de energía",
+      "B": "Porque reemplaza todas las hormonas",
+      "C": "Porque solo sirve para formar grasa",
+      "D": "Porque no entra a ninguna célula"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucosa es un sustrato energético importante.",
+      "B": "La glucosa no reemplaza hormonas.",
+      "C": "Puede tener varios destinos metabólicos, no solo formar grasa.",
+      "D": "Muchas células captan y utilizan glucosa."
+    },
+    "remediation": "La glucosa es un combustible metabólico. Las células pueden utilizarla para producir ATP o almacenarla para uso posterior.",
+    "verification": {
+      "question": "¿Cuál es uno de los destinos fisiológicos de la glucosa dentro de las células?",
+      "options": {
+        "A": "Producir energía",
+        "B": "Convertirse siempre en hormona",
+        "C": "Desaparecer sin metabolismo",
+        "D": "Formar únicamente calcio"
+      },
+      "correct": "A",
+      "feedback": "La glucosa puede metabolizarse para producir ATP."
+    }
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "topic": "Respuesta posprandial",
+    "question": "¿Qué sucede normalmente con la secreción de insulina después de aumentar la glucosa por una comida?",
+    "options": {
+      "A": "Aumenta",
+      "B": "Desaparece completamente",
+      "C": "Se convierte en glucagón",
+      "D": "Siempre disminuye"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucosa elevada estimula la secreción de insulina.",
+      "B": "La insulina no desaparece; normalmente aumenta.",
+      "C": "Insulina y glucagón son hormonas distintas.",
+      "D": "En condiciones fisiológicas, el aumento de glucosa estimula insulina."
+    },
+    "remediation": "La relación básica es: aumento de glucosa → activación de células beta → aumento de insulina → mayor utilización y almacenamiento de glucosa.",
+    "verification": {
+      "question": "¿Cuál secuencia es fisiológicamente correcta después de una comida?",
+      "options": {
+        "A": "↑ glucosa → ↑ insulina",
+        "B": "↑ glucosa → desaparición de insulina",
+        "C": "↑ glucosa → ↓ células beta",
+        "D": "↑ glucosa → desaparición del páncreas"
+      },
+      "correct": "A",
+      "feedback": "El aumento de glucosa estimula la secreción de insulina."
+    }
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "topic": "Células alfa",
+    "question": "¿Qué células pancreáticas producen principalmente glucagón?",
+    "options": {
+      "A": "Alfa",
+      "B": "Beta",
+      "C": "Musculares",
+      "D": "Endoteliales"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Las células alfa producen glucagón.",
+      "B": "Las células beta producen principalmente insulina.",
+      "C": "Las células musculares no son las productoras pancreáticas de glucagón.",
+      "D": "Las células endoteliales forman vasos sanguíneos."
+    },
+    "remediation": "En el páncreas endocrino, las células alfa se asocian con glucagón y las beta con insulina.",
+    "verification": {
+      "question": "¿Qué combinación es correcta?",
+      "options": {
+        "A": "Célula alfa → glucagón",
+        "B": "Célula alfa → insulina",
+        "C": "Célula beta → glucagón",
+        "D": "Hepatocito → insulina"
+      },
+      "correct": "A",
+      "feedback": "Las células alfa producen glucagón."
+    }
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "topic": "Relación insulina-glucosa",
+    "question": "¿Cuál es uno de los efectos generales de la insulina?",
+    "options": {
+      "A": "Favorecer la disminución de glucosa circulante",
+      "B": "Aumentar siempre la glucemia",
+      "C": "Detener todo el metabolismo",
+      "D": "Eliminar el páncreas"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La insulina favorece captación y almacenamiento de glucosa.",
+      "B": "Su acción general tiende a reducir la glucemia elevada.",
+      "C": "La insulina regula metabolismo; no lo detiene.",
+      "D": "No produce ese efecto."
+    },
+    "remediation": "La insulina ayuda a que determinados tejidos capten glucosa y favorece su almacenamiento, contribuyendo a reducir la glucosa sanguínea.",
+    "verification": {
+      "question": "Si aumenta la acción efectiva de la insulina después de comer, ¿qué cambio es esperable?",
+      "options": {
+        "A": "Mayor utilización y almacenamiento de glucosa",
+        "B": "Aumento ilimitado de glucemia",
+        "C": "Desaparición del metabolismo",
+        "D": "Producción de glucagón por músculo"
+      },
+      "correct": "A",
+      "feedback": "La insulina favorece utilización y almacenamiento de glucosa."
+    }
+  },
+  {
+    "id": 11,
+    "level": 2,
+    "topic": "GLUT4",
+    "question": "En músculo esquelético, la insulina favorece la captación de glucosa principalmente mediante:",
+    "options": {
+      "A": "GLUT4",
+      "B": "Hemoglobina",
+      "C": "Na+/K+-ATPasa",
+      "D": "Canales de calcio"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La señalización de insulina favorece la translocación de GLUT4.",
+      "B": "La hemoglobina transporta gases, no glucosa hacia la célula.",
+      "C": "La Na+/K+-ATPasa mantiene gradientes iónicos.",
+      "D": "Los canales de calcio transportan calcio, no glucosa."
+    },
+    "remediation": "GLUT4 es un transportador de glucosa sensible a la insulina en músculo esquelético y tejido adiposo. La insulina favorece que GLUT4 llegue a la membrana.",
+    "verification": {
+      "question": "Si hay más GLUT4 en la membrana del músculo, ¿qué ocurre normalmente con la entrada de glucosa?",
+      "options": {
+        "A": "Aumenta",
+        "B": "Disminuye siempre",
+        "C": "Se detiene por completo",
+        "D": "La glucosa se transforma en insulina"
+      },
+      "correct": "A",
+      "feedback": "Más GLUT4 funcional en membrana facilita la captación de glucosa."
+    }
+  },
+  {
+    "id": 12,
+    "level": 2,
+    "topic": "Tejidos sensibles a insulina",
+    "question": "¿En qué tejidos tiene especial importancia GLUT4?",
+    "options": {
+      "A": "Músculo esquelético y tejido adiposo",
+      "B": "Cabello y uñas",
+      "C": "Eritrocitos y córnea exclusivamente",
+      "D": "Hueso y cartílago exclusivamente"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. GLUT4 tiene un papel importante en músculo y tejido adiposo.",
+      "B": "No son los principales tejidos asociados a GLUT4 regulado por insulina.",
+      "C": "Esos tejidos utilizan otros transportadores de glucosa.",
+      "D": "No representan los principales tejidos sensibles a GLUT4."
+    },
+    "remediation": "La respuesta a insulina mediante GLUT4 se observa de forma destacada en músculo esquelético y tejido adiposo.",
+    "verification": {
+      "question": "¿Cuál tejido aumenta de forma importante su captación de glucosa mediante GLUT4 en respuesta a insulina?",
+      "options": {
+        "A": "Músculo esquelético",
+        "B": "Cabello",
+        "C": "Esmalte dental",
+        "D": "Cartílago articular exclusivamente"
+      },
+      "correct": "A",
+      "feedback": "El músculo esquelético utiliza GLUT4 sensible a insulina."
+    }
+  },
+  {
+    "id": 13,
+    "level": 2,
+    "topic": "Translocación de GLUT4",
+    "question": "¿Qué ocurre con GLUT4 cuando la señal de insulina es efectiva?",
+    "options": {
+      "A": "Se favorece su desplazamiento hacia la membrana celular",
+      "B": "Se convierte en insulina",
+      "C": "Destruye la glucosa",
+      "D": "Sale permanentemente de la célula"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La insulina promueve la translocación de GLUT4 hacia la membrana.",
+      "B": "GLUT4 es una proteína transportadora, no una hormona.",
+      "C": "GLUT4 transporta glucosa, no la destruye.",
+      "D": "Su localización es dinámica y regulada."
+    },
+    "remediation": "La insulina activa una señal intracelular que hace que vesículas con GLUT4 se fusionen con la membrana, aumentando la entrada de glucosa.",
+    "verification": {
+      "question": "¿Qué paso favorece directamente la captación de glucosa en músculo tras actuar la insulina?",
+      "options": {
+        "A": "Más GLUT4 en la membrana",
+        "B": "Menos GLUT4 en la membrana",
+        "C": "Conversión de GLUT4 en glucagón",
+        "D": "Desaparición de receptores"
+      },
+      "correct": "A",
+      "feedback": "La presencia de GLUT4 en membrana facilita la entrada de glucosa."
+    }
+  },
+  {
+    "id": 14,
+    "level": 2,
+    "topic": "Resistencia a la insulina",
+    "question": "¿Qué significa resistencia a la insulina?",
+    "options": {
+      "A": "Los tejidos responden menos eficazmente a la insulina",
+      "B": "La sangre deja de contener glucosa",
+      "C": "La insulina se convierte en glucagón",
+      "D": "Todas las células responden más a la hormona"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La sensibilidad a la insulina está disminuida.",
+      "B": "La glucosa puede incluso encontrarse elevada.",
+      "C": "Son hormonas diferentes.",
+      "D": "La resistencia implica menor, no mayor, respuesta."
+    },
+    "remediation": "En la resistencia a la insulina, la hormona puede estar presente, pero su efecto sobre tejidos como músculo, hígado y adiposo es menor de lo esperado.",
+    "verification": {
+      "question": "Una persona tiene insulina circulante, pero el músculo capta poca glucosa en respuesta a ella. ¿Qué concepto explica mejor esto?",
+      "options": {
+        "A": "Resistencia a la insulina",
+        "B": "Hipoglucemia fisiológica",
+        "C": "Exceso de sensibilidad",
+        "D": "Ausencia de glucosa"
+      },
+      "correct": "A",
+      "feedback": "La respuesta reducida de un tejido a insulina corresponde a resistencia a la insulina."
+    }
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "topic": "Compensación pancreática",
+    "question": "¿Cómo puede compensar inicialmente el páncreas una menor sensibilidad a la insulina?",
+    "options": {
+      "A": "Aumentando la secreción de insulina",
+      "B": "Eliminando las células beta",
+      "C": "Deteniendo el flujo sanguíneo",
+      "D": "Eliminando toda la glucosa"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Puede aparecer hiperinsulinemia compensatoria.",
+      "B": "Eso reduciría la capacidad de producir insulina.",
+      "C": "No es un mecanismo fisiológico de compensación.",
+      "D": "El organismo no elimina toda la glucosa."
+    },
+    "remediation": "Cuando los tejidos responden menos a insulina, las células beta pueden secretar más hormona para intentar mantener la glucemia controlada.",
+    "verification": {
+      "question": "Si los tejidos responden menos a insulina pero el páncreas aún compensa, ¿qué hallazgo es posible?",
+      "options": {
+        "A": "Insulina elevada",
+        "B": "Ausencia total de insulina",
+        "C": "Desaparición de glucosa",
+        "D": "Ausencia de páncreas"
+      },
+      "correct": "A",
+      "feedback": "La compensación puede producir niveles elevados de insulina."
+    }
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "topic": "Captación periférica",
+    "question": "Si la insulina funciona correctamente después de una comida, ¿qué cambio es esperable en tejidos sensibles?",
+    "options": {
+      "A": "Mayor captación de glucosa",
+      "B": "Disminución obligatoria de toda actividad celular",
+      "C": "Producción ilimitada de glucosa",
+      "D": "Conversión de glucosa en hormona"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La insulina favorece la captación de glucosa.",
+      "B": "No detiene toda actividad celular.",
+      "C": "Su acción general limita la hiperglucemia.",
+      "D": "La glucosa no se transforma directamente en insulina."
+    },
+    "remediation": "Después de una comida, la insulina ayuda a trasladar glucosa desde la sangre hacia tejidos donde puede utilizarse o almacenarse.",
+    "verification": {
+      "question": "¿Qué efecto ayuda directamente a disminuir la glucosa sanguínea?",
+      "options": {
+        "A": "Entrada de glucosa al músculo",
+        "B": "Salida de más glucosa desde el hígado",
+        "C": "Disminución de captación celular",
+        "D": "Aumento de gluconeogénesis"
+      },
+      "correct": "A",
+      "feedback": "La captación periférica retira glucosa de la circulación."
+    }
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "topic": "Glucogénesis",
+    "question": "¿Qué proceso permite almacenar glucosa en forma de glucógeno?",
+    "options": {
+      "A": "Glucogénesis",
+      "B": "Glucogenólisis",
+      "C": "Gluconeogénesis",
+      "D": "Lipólisis"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucogénesis sintetiza glucógeno a partir de glucosa.",
+      "B": "La glucogenólisis degrada glucógeno.",
+      "C": "La gluconeogénesis produce nueva glucosa.",
+      "D": "La lipólisis moviliza grasas."
+    },
+    "remediation": "Glucogénesis = formación de glucógeno. Es una forma de almacenar glucosa, especialmente en hígado y músculo.",
+    "verification": {
+      "question": "Si una célula convierte glucosa en glucógeno para almacenarla, ¿qué proceso está realizando?",
+      "options": {
+        "A": "Glucogénesis",
+        "B": "Glucogenólisis",
+        "C": "Gluconeogénesis",
+        "D": "Lipólisis"
+      },
+      "correct": "A",
+      "feedback": "La síntesis de glucógeno corresponde a glucogénesis."
+    }
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "topic": "Hígado posprandial",
+    "question": "Después de una comida, la insulina favorece en el hígado:",
+    "options": {
+      "A": "Almacenamiento de glucosa como glucógeno",
+      "B": "Producción ilimitada de glucosa",
+      "C": "Destrucción del hígado",
+      "D": "Conversión de glucosa en glucagón"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La insulina favorece el almacenamiento de glucosa.",
+      "B": "En estado posprandial tiende a reducirse la producción hepática de glucosa.",
+      "C": "No es una acción fisiológica de la insulina.",
+      "D": "Glucosa y glucagón son moléculas diferentes."
+    },
+    "remediation": "En el estado posprandial, la insulina promueve almacenamiento energético y disminuye la producción hepática de glucosa.",
+    "verification": {
+      "question": "¿Qué opción es más coherente con un hígado expuesto a insulina después de comer?",
+      "options": {
+        "A": "Aumentar síntesis de glucógeno",
+        "B": "Aumentar gluconeogénesis",
+        "C": "Liberar glucosa sin límite",
+        "D": "Dejar de metabolizar nutrientes"
+      },
+      "correct": "A",
+      "feedback": "La insulina favorece el almacenamiento de glucosa como glucógeno."
+    }
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "topic": "Captación muscular",
+    "question": "¿Qué resultado produce una mayor captación de glucosa por músculo y tejido adiposo?",
+    "options": {
+      "A": "Contribuye a disminuir la glucosa circulante",
+      "B": "Aumenta obligatoriamente la hiperglucemia",
+      "C": "Impide producir ATP",
+      "D": "Convierte la insulina en glucosa"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Retirar glucosa de la circulación ayuda a reducir la glucemia.",
+      "B": "El efecto esperado es el contrario.",
+      "C": "La glucosa puede utilizarse para producir ATP.",
+      "D": "La insulina no se transforma en glucosa."
+    },
+    "remediation": "Cuando músculo y tejido adiposo captan glucosa, disminuye la cantidad que permanece circulando en la sangre.",
+    "verification": {
+      "question": "Si el músculo comienza a captar más glucosa desde la sangre, ¿qué tendencia se espera en la glucemia?",
+      "options": {
+        "A": "Disminuir",
+        "B": "Aumentar siempre",
+        "C": "No cambiar nunca",
+        "D": "Desaparecer instantáneamente"
+      },
+      "correct": "A",
+      "feedback": "Una mayor captación periférica contribuye a disminuir la glucemia."
+    }
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "topic": "Disminución de respuesta muscular",
+    "question": "Si disminuye la respuesta del músculo a la insulina, ¿qué puede ocurrir?",
+    "options": {
+      "A": "Disminuye la captación de glucosa por el músculo",
+      "B": "Aumenta siempre la captación",
+      "C": "La glucosa desaparece inmediatamente",
+      "D": "El músculo produce insulina"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Una menor sensibilidad puede reducir la captación estimulada por insulina.",
+      "B": "Una respuesta menor no favorece mayor captación.",
+      "C": "La glucosa puede permanecer elevada.",
+      "D": "La insulina se produce principalmente en células beta pancreáticas."
+    },
+    "remediation": "Si el músculo responde menos a la insulina, se moviliza menos GLUT4 hacia la membrana y puede entrar menos glucosa a la célula.",
+    "verification": {
+      "question": "Si la señal de insulina en músculo es débil, ¿qué ocurre probablemente con GLUT4 en membrana?",
+      "options": {
+        "A": "Disminuye su translocación",
+        "B": "Aumenta siempre",
+        "C": "Se transforma en insulina",
+        "D": "Se convierte en glucógeno"
+      },
+      "correct": "A",
+      "feedback": "Una señal reducida de insulina puede disminuir la translocación de GLUT4."
+    }
+  },
+  {
+    "id": 21,
+    "level": 3,
+    "topic": "Glucogenólisis",
+    "question": "¿Qué proceso degrada el glucógeno almacenado?",
+    "options": {
+      "A": "Glucogenólisis",
+      "B": "Glucogénesis",
+      "C": "Gluconeogénesis",
+      "D": "Síntesis proteica"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucogenólisis degrada glucógeno.",
+      "B": "La glucogénesis forma glucógeno.",
+      "C": "La gluconeogénesis produce glucosa nueva.",
+      "D": "La síntesis proteica forma proteínas."
+    },
+    "remediation": "Glucogenólisis significa ruptura del glucógeno almacenado para liberar unidades que pueden contribuir a la disponibilidad de glucosa.",
+    "verification": {
+      "question": "Durante el ayuno, si el hígado rompe sus reservas de glucógeno, ¿qué proceso realiza?",
+      "options": {
+        "A": "Glucogenólisis",
+        "B": "Glucogénesis",
+        "C": "Lipogénesis",
+        "D": "Síntesis proteica"
+      },
+      "correct": "A",
+      "feedback": "La degradación de glucógeno es glucogenólisis."
+    }
+  },
+  {
+    "id": 22,
+    "level": 3,
+    "topic": "Gluconeogénesis",
+    "question": "¿Qué proceso genera glucosa a partir de precursores no glucídicos?",
+    "options": {
+      "A": "Gluconeogénesis",
+      "B": "Glucogénesis",
+      "C": "Glucólisis",
+      "D": "Transporte por GLUT4"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La gluconeogénesis sintetiza glucosa nueva.",
+      "B": "La glucogénesis almacena glucosa como glucógeno.",
+      "C": "La glucólisis degrada glucosa.",
+      "D": "GLUT4 transporta glucosa, no la sintetiza."
+    },
+    "remediation": "La gluconeogénesis ocurre principalmente en el hígado y permite formar glucosa a partir de precursores como lactato, glicerol y aminoácidos glucogénicos.",
+    "verification": {
+      "question": "Si el hígado fabrica glucosa nueva durante el ayuno, ¿qué proceso está realizando?",
+      "options": {
+        "A": "Gluconeogénesis",
+        "B": "Glucogénesis",
+        "C": "Glucólisis",
+        "D": "Lipólisis muscular"
+      },
+      "correct": "A",
+      "feedback": "La formación de glucosa nueva es gluconeogénesis."
+    }
+  },
+  {
+    "id": 23,
+    "level": 3,
+    "topic": "Ayuno",
+    "question": "Durante el ayuno, el hígado contribuye al mantenimiento de la glucemia mediante:",
+    "options": {
+      "A": "Glucogenólisis y gluconeogénesis",
+      "B": "Solo glucogénesis",
+      "C": "Producción de insulina",
+      "D": "Eliminación de toda glucosa"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Ambos procesos ayudan a mantener glucosa disponible.",
+      "B": "La glucogénesis almacena glucosa y no es la principal respuesta de ayuno.",
+      "C": "La insulina se produce principalmente en el páncreas.",
+      "D": "El organismo no elimina toda la glucosa."
+    },
+    "remediation": "En ayuno, el hígado primero moviliza glucógeno y también puede producir glucosa nueva para sostener la glucemia.",
+    "verification": {
+      "question": "¿Qué combinación es más útil para mantener glucosa sanguínea durante el ayuno?",
+      "options": {
+        "A": "Romper glucógeno y formar glucosa nueva",
+        "B": "Almacenar toda la glucosa disponible",
+        "C": "Aumentar únicamente glucogénesis",
+        "D": "Bloquear el hígado"
+      },
+      "correct": "A",
+      "feedback": "Glucogenólisis y gluconeogénesis ayudan a mantener la glucemia en ayuno."
+    }
+  },
+  {
+    "id": 24,
+    "level": 3,
+    "topic": "Insulina y producción hepática",
+    "question": "¿Qué efecto tiene normalmente la insulina sobre la producción hepática de glucosa?",
+    "options": {
+      "A": "Tiende a disminuirla",
+      "B": "La aumenta siempre",
+      "C": "No tiene relación con el hígado",
+      "D": "Transforma el hígado en páncreas"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La insulina reduce la producción hepática de glucosa.",
+      "B": "Su efecto general es inhibir procesos productores de glucosa.",
+      "C": "El hígado es un órgano diana importante de la insulina.",
+      "D": "Una hormona no transforma un órgano en otro."
+    },
+    "remediation": "La insulina señala que existe disponibilidad energética. Por eso reduce procesos hepáticos que liberan o producen glucosa.",
+    "verification": {
+      "question": "Después de comer, ¿qué debería ocurrir con la gluconeogénesis hepática cuando aumenta la insulina?",
+      "options": {
+        "A": "Disminuir",
+        "B": "Aumentar sin límite",
+        "C": "Desaparecer el hígado",
+        "D": "Convertirse en glucogenólisis obligatoriamente"
+      },
+      "correct": "A",
+      "feedback": "La insulina inhibe la gluconeogénesis hepática."
+    }
+  },
+  {
+    "id": 25,
+    "level": 3,
+    "topic": "Resistencia hepática",
+    "question": "En resistencia hepática a la insulina, puede ocurrir que:",
+    "options": {
+      "A": "El hígado continúe produciendo glucosa pese a glucemia elevada",
+      "B": "El hígado deje de funcionar de inmediato",
+      "C": "Toda la glucosa desaparezca",
+      "D": "Desaparezcan todas las hormonas pancreáticas"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La señal inhibitoria de insulina puede ser menos efectiva.",
+      "B": "Resistencia a la insulina no equivale a insuficiencia hepática inmediata.",
+      "C": "La glucosa puede permanecer alta.",
+      "D": "Las hormonas pancreáticas siguen existiendo."
+    },
+    "remediation": "Si el hígado es resistente a la insulina, puede seguir liberando o produciendo glucosa incluso cuando ya existe suficiente glucosa circulante.",
+    "verification": {
+      "question": "¿Qué consecuencia puede tener una menor respuesta hepática a insulina?",
+      "options": {
+        "A": "Producción hepática de glucosa inapropiadamente alta",
+        "B": "Ausencia total de glucosa",
+        "C": "Desaparición de insulina",
+        "D": "Cese inmediato de circulación"
+      },
+      "correct": "A",
+      "feedback": "La resistencia hepática puede mantener elevada la producción de glucosa."
+    }
+  },
+  {
+    "id": 26,
+    "level": 3,
+    "topic": "Producción y captación",
+    "question": "¿Qué combinación favorece más directamente una elevación de glucosa sanguínea?",
+    "options": {
+      "A": "Mayor producción hepática y menor captación periférica",
+      "B": "Menor producción hepática y mayor captación periférica",
+      "C": "Mayor almacenamiento y mayor captación",
+      "D": "Mayor acción efectiva de insulina"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Ambas alteraciones aumentan la glucosa que permanece en sangre.",
+      "B": "Esa combinación tendería a disminuir la glucemia.",
+      "C": "Ambos procesos tienden a reducirla.",
+      "D": "La acción efectiva de insulina tiende a disminuir la glucemia."
+    },
+    "remediation": "La glucemia aumenta cuando entra más glucosa a la circulación y/o cuando los tejidos retiran menos glucosa de ella.",
+    "verification": {
+      "question": "¿Qué escenario tendería a producir hiperglucemia?",
+      "options": {
+        "A": "Hígado libera más glucosa y músculo capta menos",
+        "B": "Hígado produce menos y músculo capta más",
+        "C": "Aumenta almacenamiento hepático",
+        "D": "Aumenta sensibilidad a insulina"
+      },
+      "correct": "A",
+      "feedback": "Más producción y menos captación favorecen hiperglucemia."
+    }
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "topic": "Respuesta beta a glucosa",
+    "question": "Si la glucemia aumenta y las células beta funcionan normalmente, ¿qué respuesta debería ocurrir?",
+    "options": {
+      "A": "Aumento de secreción de insulina",
+      "B": "Detención de toda secreción hormonal",
+      "C": "Desaparición de receptores de insulina",
+      "D": "Producción de glucosa por células beta"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucosa elevada estimula secreción de insulina.",
+      "B": "La regulación endocrina continúa.",
+      "C": "No es la respuesta fisiológica normal.",
+      "D": "La principal función endocrina beta es secretar insulina."
+    },
+    "remediation": "Las células beta detectan aumentos de glucosa y responden aumentando la secreción de insulina.",
+    "verification": {
+      "question": "¿Qué debería hacer una célula beta sana cuando detecta glucosa elevada?",
+      "options": {
+        "A": "Liberar más insulina",
+        "B": "Liberar menos insulina siempre",
+        "C": "Producir glucagón",
+        "D": "Dejar de responder"
+      },
+      "correct": "A",
+      "feedback": "La glucosa elevada estimula la secreción de insulina."
+    }
+  },
+  {
+    "id": 28,
+    "level": 3,
+    "topic": "Destino de glucosa",
+    "question": "¿Por qué la insulina puede reducir la glucemia sin destruir la glucosa?",
+    "options": {
+      "A": "Porque favorece su captación, utilización y almacenamiento",
+      "B": "Porque la convierte toda en agua",
+      "C": "Porque la elimina por los pulmones",
+      "D": "Porque impide el metabolismo celular"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La glucosa se redistribuye hacia tejidos y depósitos.",
+      "B": "No es el mecanismo fisiológico principal.",
+      "C": "La glucosa no se elimina significativamente por respiración.",
+      "D": "La insulina favorece metabolismo y almacenamiento."
+    },
+    "remediation": "La regulación de glucemia no consiste en destruir la glucosa, sino en moverla y metabolizarla de forma adecuada.",
+    "verification": {
+      "question": "¿Qué proceso ayuda a retirar glucosa de la sangre sin eliminarla del organismo?",
+      "options": {
+        "A": "Captación celular",
+        "B": "Producción hepática",
+        "C": "Gluconeogénesis",
+        "D": "Glucogenólisis"
+      },
+      "correct": "A",
+      "feedback": "La captación celular retira glucosa de la circulación para usarla o almacenarla."
+    }
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "topic": "Retroalimentación negativa",
+    "question": "¿Qué relación representa mejor una retroalimentación negativa de la glucemia?",
+    "options": {
+      "A": "↑ glucosa → ↑ insulina → ↓ glucosa",
+      "B": "↑ glucosa → ↑ glucosa indefinidamente",
+      "C": "↓ glucosa → eliminación del páncreas",
+      "D": "Insulina → más insulina sin límite"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La respuesta contrarresta el estímulo inicial.",
+      "B": "Eso amplificaría el cambio.",
+      "C": "No es un mecanismo fisiológico normal.",
+      "D": "No describe retroalimentación negativa."
+    },
+    "remediation": "En la retroalimentación negativa, la respuesta fisiológica reduce la desviación inicial y favorece el retorno hacia un rango regulado.",
+    "verification": {
+      "question": "Si una variable aumenta y el organismo activa una respuesta que la reduce, ¿qué tipo de regulación es?",
+      "options": {
+        "A": "Retroalimentación negativa",
+        "B": "Retroalimentación positiva",
+        "C": "Ausencia de regulación",
+        "D": "Mutación"
+      },
+      "correct": "A",
+      "feedback": "La respuesta que se opone al cambio inicial es retroalimentación negativa."
+    }
+  },
+  {
+    "id": 30,
+    "level": 3,
+    "topic": "Hiperinsulinemia compensatoria",
+    "question": "Si existe resistencia a la insulina pero las células beta todavía compensan, es posible encontrar:",
+    "options": {
+      "A": "Insulina elevada",
+      "B": "Ausencia total de insulina",
+      "C": "Ausencia de glucosa",
+      "D": "Destrucción inmediata del hígado"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Puede aparecer hiperinsulinemia compensatoria.",
+      "B": "La resistencia no implica necesariamente ausencia de insulina.",
+      "C": "La glucosa continúa circulando.",
+      "D": "No es una consecuencia inmediata obligatoria."
+    },
+    "remediation": "En etapas compensadas de resistencia a la insulina, el páncreas puede secretar más insulina para mantener la glucemia.",
+    "verification": {
+      "question": "¿Qué hallazgo puede indicar que el páncreas está compensando una menor sensibilidad a insulina?",
+      "options": {
+        "A": "Aumento de insulina circulante",
+        "B": "Ausencia completa de insulina",
+        "C": "Ausencia de células beta obligatoria",
+        "D": "Glucosa siempre en cero"
+      },
+      "correct": "A",
+      "feedback": "La compensación pancreática puede elevar la insulina circulante."
+    }
+  },
+  {
+    "id": 31,
+    "level": 4,
+    "topic": "Caso posprandial",
+    "question": "Una persona sana consume una comida rica en carbohidratos. ¿Cuál secuencia representa mejor la respuesta fisiológica?",
+    "options": {
+      "A": "↑ glucosa → ↑ insulina → ↑ captación/almacenamiento",
+      "B": "↑ glucosa → ↓ insulina → ↑ producción hepática",
+      "C": "↑ glucosa → ↑ glucagón como respuesta principal",
+      "D": "↑ glucosa → desaparición del metabolismo"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Es la respuesta posprandial esperable.",
+      "B": "La glucosa elevada normalmente aumenta insulina.",
+      "C": "El glucagón no es la principal señal para reducir glucosa posprandial.",
+      "D": "El metabolismo continúa."
+    },
+    "remediation": "Después de una comida, la glucosa aumenta, se secreta insulina y los tejidos captan o almacenan glucosa para restaurar la homeostasis.",
+    "verification": {
+      "question": "¿Qué combinación describe mejor el estado posprandial normal?",
+      "options": {
+        "A": "Insulina alta y mayor almacenamiento de glucosa",
+        "B": "Glucagón alto y mayor producción hepática de glucosa",
+        "C": "Ausencia de captación celular",
+        "D": "Ausencia de regulación"
+      },
+      "correct": "A",
+      "feedback": "El estado posprandial favorece insulina y almacenamiento de glucosa."
+    }
+  },
+  {
+    "id": 32,
+    "level": 4,
+    "topic": "Caso resistencia muscular",
+    "question": "Una persona tiene insulina elevada pero el músculo responde poco a ella. ¿Qué alteración explica mejor el fenómeno?",
+    "options": {
+      "A": "Resistencia a la insulina",
+      "B": "Ausencia completa de glucosa",
+      "C": "Exceso de sensibilidad a insulina",
+      "D": "Producción muscular de insulina"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Hay una respuesta reducida pese a la presencia de insulina.",
+      "B": "La glucosa puede estar elevada.",
+      "C": "El escenario describe lo contrario.",
+      "D": "El músculo no es la fuente principal de insulina."
+    },
+    "remediation": "La resistencia a la insulina se reconoce cuando una cantidad de hormona que debería provocar una respuesta adecuada produce un efecto menor de lo esperado.",
+    "verification": {
+      "question": "Si existe mucha insulina pero poca captación de glucosa por músculo, ¿qué problema es más probable?",
+      "options": {
+        "A": "Menor sensibilidad a insulina",
+        "B": "Mayor sensibilidad a insulina",
+        "C": "Ausencia de glucosa",
+        "D": "Exceso de GLUT4 funcional"
+      },
+      "correct": "A",
+      "feedback": "Poca respuesta con insulina presente sugiere resistencia a la insulina."
+    }
+  },
+  {
+    "id": 33,
+    "level": 4,
+    "topic": "Interpretación conceptual",
+    "question": "Un estudiante afirma: “La hiperglucemia ocurre porque el cuerpo no tiene glucosa suficiente”. ¿Cuál es el error principal?",
+    "options": {
+      "A": "Confunde hiperglucemia con disminución de glucosa",
+      "B": "La afirmación es correcta",
+      "C": "Confunde únicamente insulina con glucagón",
+      "D": "La glucosa desapareció de la sangre"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Hiperglucemia significa glucosa elevada.",
+      "B": "La afirmación contradice la definición.",
+      "C": "El error central está en el nivel de glucosa.",
+      "D": "En hiperglucemia hay exceso relativo de glucosa circulante."
+    },
+    "remediation": "La palabra 'hiper' indica aumento. Hiperglucemia significa una concentración sanguínea de glucosa superior a lo esperado.",
+    "verification": {
+      "question": "¿Cuál frase describe correctamente hiperglucemia?",
+      "options": {
+        "A": "Exceso de glucosa en sangre",
+        "B": "Falta total de glucosa",
+        "C": "Ausencia de páncreas",
+        "D": "Exceso de calcio"
+      },
+      "correct": "A",
+      "feedback": "Hiperglucemia corresponde a glucosa sanguínea elevada."
+    }
+  },
+  {
+    "id": 34,
+    "level": 4,
+    "topic": "Caso GLUT4",
+    "question": "Un paciente presenta hiperglucemia y una respuesta deficiente de GLUT4 en músculo. ¿Qué efecto es esperable?",
+    "options": {
+      "A": "Menor captación muscular de glucosa",
+      "B": "Mayor entrada de glucosa obligatoria",
+      "C": "Conversión de GLUT4 en glucagón",
+      "D": "Producción de insulina por músculo"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Menos GLUT4 funcional reduce captación de glucosa.",
+      "B": "La alteración tendería a reducir, no aumentar, la entrada.",
+      "C": "GLUT4 y glucagón son moléculas distintas.",
+      "D": "La insulina se produce principalmente en páncreas."
+    },
+    "remediation": "GLUT4 facilita la entrada de glucosa al músculo. Si su translocación o función disminuye, menos glucosa entra y más puede permanecer en sangre.",
+    "verification": {
+      "question": "Si disminuye GLUT4 en la membrana muscular, ¿qué ocurre con la glucosa sanguínea, en igualdad de otras condiciones?",
+      "options": {
+        "A": "Tiende a permanecer más elevada",
+        "B": "Desaparece",
+        "C": "Baja obligatoriamente a cero",
+        "D": "Se convierte en insulina"
+      },
+      "correct": "A",
+      "feedback": "Menor captación muscular puede contribuir a mantener glucosa elevada."
+    }
+  },
+  {
+    "id": 35,
+    "level": 4,
+    "topic": "Caso ayuno",
+    "question": "Una persona se encuentra en ayuno prolongado. ¿Qué combinación hormonal es más coherente?",
+    "options": {
+      "A": "Menor influencia de insulina y mayor influencia de glucagón",
+      "B": "Insulina muy alta como señal principal de almacenamiento",
+      "C": "Ausencia total de hormonas",
+      "D": "Solo aumento de insulina y GLUT4"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. El ayuno favorece señales que movilizan reservas.",
+      "B": "No es la respuesta principal del ayuno.",
+      "C": "La regulación hormonal continúa.",
+      "D": "El ayuno requiere disponibilidad energética, no solo almacenamiento."
+    },
+    "remediation": "Durante el ayuno, disminuye la señal de almacenamiento y aumenta la señal que favorece movilización de reservas y producción de glucosa.",
+    "verification": {
+      "question": "¿Qué hormona cobra mayor importancia relativa durante el ayuno para mantener la glucemia?",
+      "options": {
+        "A": "Glucagón",
+        "B": "Insulina",
+        "C": "Calcitonina",
+        "D": "Melatonina"
+      },
+      "correct": "A",
+      "feedback": "El glucagón favorece la disponibilidad de glucosa durante el ayuno."
+    }
+  },
+  {
+    "id": 36,
+    "level": 4,
+    "topic": "Caso compensación",
+    "question": "Una persona presenta resistencia a la insulina en músculo y tejido adiposo. ¿Qué respuesta compensatoria puede aparecer inicialmente?",
+    "options": {
+      "A": "Hiperinsulinemia compensatoria",
+      "B": "Desaparición de células beta",
+      "C": "Ausencia total de glucagón",
+      "D": "Eliminación de receptores celulares"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. El páncreas puede secretar más insulina.",
+      "B": "Eso impediría la compensación.",
+      "C": "El glucagón continúa participando.",
+      "D": "La resistencia no exige desaparición de receptores."
+    },
+    "remediation": "Cuando los tejidos responden menos a la insulina, el páncreas puede aumentar la secreción para compensar temporalmente esa menor sensibilidad.",
+    "verification": {
+      "question": "¿Qué combinación es compatible con una etapa compensada de resistencia a insulina?",
+      "options": {
+        "A": "Insulina alta y respuesta periférica reducida",
+        "B": "Insulina ausente y sensibilidad alta",
+        "C": "Glucosa en cero",
+        "D": "Ausencia de páncreas"
+      },
+      "correct": "A",
+      "feedback": "La compensación puede mantener insulina elevada pese a menor sensibilidad."
+    }
+  },
+  {
+    "id": 37,
+    "level": 4,
+    "topic": "Caso producción + captación",
+    "question": "Si un paciente presenta menor captación muscular de glucosa y mayor producción hepática de glucosa, ¿qué consecuencia es más probable?",
+    "options": {
+      "A": "Tendencia a hiperglucemia",
+      "B": "Hipoglucemia obligatoria",
+      "C": "Desaparición de glucosa circulante",
+      "D": "Conversión de glucosa en insulina"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Ambas alteraciones favorecen glucosa elevada.",
+      "B": "La combinación favorece el efecto contrario.",
+      "C": "Se esperaría mayor permanencia de glucosa en sangre.",
+      "D": "La glucosa no se convierte directamente en insulina."
+    },
+    "remediation": "La glucemia aumenta cuando el hígado aporta más glucosa y, al mismo tiempo, los tejidos captan menos.",
+    "verification": {
+      "question": "¿Qué escenario aumenta más la glucosa sanguínea?",
+      "options": {
+        "A": "Más salida desde hígado + menos entrada a músculo",
+        "B": "Menos salida desde hígado + más entrada a músculo",
+        "C": "Mayor almacenamiento hepático",
+        "D": "Mayor sensibilidad a insulina"
+      },
+      "correct": "A",
+      "feedback": "Más producción y menos captación elevan la glucemia."
+    }
+  },
+  {
+    "id": 38,
+    "level": 4,
+    "topic": "Caso insulina alta",
+    "question": "Un estudiante dice: “Si hay mucha insulina, nunca puede existir hiperglucemia”. ¿Por qué puede ser incorrecto?",
+    "options": {
+      "A": "Porque los tejidos pueden ser resistentes a la insulina",
+      "B": "Porque la insulina siempre aumenta glucosa",
+      "C": "Porque la insulina no tiene función metabólica",
+      "D": "Porque todas las células producen glucagón"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La cantidad de insulina no garantiza una respuesta adecuada.",
+      "B": "La insulina suele disminuir la glucemia.",
+      "C": "Es una hormona metabólica central.",
+      "D": "El glucagón se produce principalmente en células alfa pancreáticas."
+    },
+    "remediation": "La concentración de una hormona y la respuesta del tejido son cosas distintas. Puede haber mucha insulina, pero poca respuesta celular.",
+    "verification": {
+      "question": "¿Qué dato demostraría mejor resistencia a insulina?",
+      "options": {
+        "A": "Insulina presente pero respuesta tisular reducida",
+        "B": "Ausencia de glucosa",
+        "C": "Mayor captación con poca insulina",
+        "D": "Hipoglucemia por ayuno breve"
+      },
+      "correct": "A",
+      "feedback": "La resistencia implica respuesta menor de la esperada ante insulina."
+    }
+  },
+  {
+    "id": 39,
+    "level": 4,
+    "topic": "Caso homeostasis",
+    "question": "Una persona sana presenta un aumento transitorio de glucosa después de comer y luego vuelve hacia su rango habitual. ¿Qué explica mejor el fenómeno?",
+    "options": {
+      "A": "Homeostasis mediante retroalimentación negativa",
+      "B": "Fallo pancreático irreversible",
+      "C": "Retroalimentación positiva ilimitada",
+      "D": "Ausencia completa de regulación"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. La respuesta hormonal contrarresta el cambio inicial.",
+      "B": "El retorno al rango indica regulación funcional.",
+      "C": "La retroalimentación positiva amplificaría el cambio.",
+      "D": "La regulación hormonal está actuando."
+    },
+    "remediation": "La homeostasis usa mecanismos de retroalimentación negativa: cuando una variable se aleja del rango, se activan respuestas que favorecen su retorno.",
+    "verification": {
+      "question": "¿Qué caracteriza a una retroalimentación negativa?",
+      "options": {
+        "A": "La respuesta reduce la desviación inicial",
+        "B": "La respuesta amplifica siempre el cambio",
+        "C": "La regulación desaparece",
+        "D": "La variable queda fija para siempre"
+      },
+      "correct": "A",
+      "feedback": "La retroalimentación negativa se opone al cambio inicial."
+    }
+  },
+  {
+    "id": 40,
+    "level": 4,
+    "topic": "Integración avanzada",
+    "question": "Un paciente presenta glucosa elevada, insulina elevada y disminución de la captación de glucosa por músculo. ¿Qué interpretación integra mejor los datos?",
+    "options": {
+      "A": "Respuesta compensatoria frente a menor sensibilidad periférica",
+      "B": "Ausencia total de insulina",
+      "C": "Sensibilidad excesiva del músculo a insulina",
+      "D": "Ausencia completa de secreción pancreática"
+    },
+    "correct": "A",
+    "feedback": {
+      "A": "Correcto. Es compatible con resistencia periférica e hiperinsulinemia compensatoria.",
+      "B": "El caso indica insulina elevada.",
+      "C": "Una sensibilidad alta favorecería mayor captación.",
+      "D": "La insulina elevada demuestra que existe secreción pancreática."
+    },
+    "remediation": "Cuando el músculo responde poco a la insulina, el páncreas puede aumentar la secreción. El resultado puede ser insulina alta junto con glucosa aún elevada.",
+    "verification": {
+      "question": "¿Qué combinación sugiere mejor resistencia a insulina compensada?",
+      "options": {
+        "A": "Glucosa alta + insulina alta + menor captación muscular",
+        "B": "Glucosa baja + ausencia de insulina",
+        "C": "Glucosa normal + sensibilidad muy alta",
+        "D": "Ausencia de glucosa y glucagón"
+      },
+      "correct": "A",
+      "feedback": "La combinación integra menor sensibilidad periférica y compensación pancreática."
+    }
+  }
+]
